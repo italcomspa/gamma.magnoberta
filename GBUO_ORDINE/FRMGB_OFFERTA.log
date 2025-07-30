@@ -1,0 +1,24 @@
+Line 33: Class MSComctlLib.ImageList of control ImageList was not a loaded control class.
+Line 984: Class MSComctlLib.ImageList of control ImgLstFornitore was not a loaded control class.
+Line 1225: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 36: The property name _ExtentX in ImageList is invalid.
+Line 37: The property name _ExtentY in ImageList is invalid.
+Line 39: The property name ImageWidth in ImageList is invalid.
+Line 40: The property name ImageHeight in ImageList is invalid.
+Line 41: The property name MaskColor in ImageList is invalid.
+Line 42: The property name _Version in ImageList is invalid.
+Line 65: The property name Images in ImageList is invalid.
+Line 987: The property name _ExtentX in ImgLstFornitore is invalid.
+Line 988: The property name _ExtentY in ImgLstFornitore is invalid.
+Line 990: The property name ImageWidth in ImgLstFornitore is invalid.
+Line 991: The property name ImageHeight in ImgLstFornitore is invalid.
+Line 992: The property name MaskColor in ImgLstFornitore is invalid.
+Line 993: The property name _Version in ImgLstFornitore is invalid.
+Line 1006: The property name Images in ImgLstFornitore is invalid.
+Line 1228: The property name _ExtentX in ImageList1 is invalid.
+Line 1229: The property name _ExtentY in ImageList1 is invalid.
+Line 1231: The property name ImageWidth in ImageList1 is invalid.
+Line 1232: The property name ImageHeight in ImageList1 is invalid.
+Line 1233: The property name MaskColor in ImageList1 is invalid.
+Line 1234: The property name _Version in ImageList1 is invalid.
+Line 1247: The property name Images in ImageList1 is invalid.
